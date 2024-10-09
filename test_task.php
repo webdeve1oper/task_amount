@@ -1,4 +1,4 @@
-
+<?php
   public function deductBalance(float $amount) {
         $amount = round($amount, 8);
 
